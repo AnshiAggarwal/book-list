@@ -1,0 +1,11 @@
+{
+  "name": "book-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+"serve": "live-server --port=0987 --no-browser"
+  },
+  "author": "",
+  "license": "ISC"
+}
